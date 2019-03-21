@@ -9,7 +9,7 @@ For example:
 
 https://htmlpreview.github.io/?https://github.com/ashengtx/pages/blob/master/mypages/blog-index-page/index.html
 
-## [001 blog-index-page](https://htmlpreview.github.io/?https://github.com/ashengtx/pages/blob/master/docs/001-make-a-blog-index-page-from-scratch.md)
+## [001 blog-index-page](https://github.com/ashengtx/pages/blob/master/docs/001-make-a-blog-index-page-from-scratch.md)
 
 
 
