@@ -36,4 +36,17 @@
     });
     
     window.addEventListener(WINDOW_CHANGE_EVENT, closeMenu);
-    })(this, this.document);
+
+    // add bottom-shadow class when scroll up and down
+    $(window).scroll(function() {     
+        var scroll = $(window).scrollTop();
+        if (scroll > 0) {
+            $("#menu").addClass("bottom-shadow");
+        }
+        else {
+            $("#menu").removeClass("bottom-shadow");
+        }
+    });
+    }
+    
+)(this, this.document);

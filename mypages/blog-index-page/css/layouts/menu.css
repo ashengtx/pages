@@ -1,7 +1,7 @@
 .custom-wrapper {
     margin-bottom: 1em;
     -webkit-font-smoothing: antialiased;
-    height: 2.1em;
+    height: 2.5em;
     overflow: hidden;
     -webkit-transition: height 0.5s;
     -moz-transition: height 0.5s;
@@ -12,6 +12,10 @@
     left: 0;
     width: 100%;
     background-color: #fff;
+}
+
+#menu.bottom-shadow {
+    box-shadow: 0 3px 16px rgba(0,0,0,0.2);   
 }
 
 .custom-wrapper.open {
